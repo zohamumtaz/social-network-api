@@ -1,0 +1,19 @@
+{
+  "name": "challenge-18",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "zoha",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongod": "^2.0.0",
+    "mongoose": "^5.12.3",
+    "node": "^15.12.0",
+    "node.js": "0.0.1-security"
+  }
+}
