@@ -20,15 +20,11 @@ type in the commands from your terminal to download packages and technologies fo
 * mongo
 
 
+## User story 
 
-
-
-
-## Usage 
-
-
-
-
+AS A social media startup
+I WANT an API for my social network that uses a NoSQL database
+SO THAT my website can handle large amounts of unstructured data
 
 
 ## Video walk through 
@@ -37,9 +33,6 @@ this video walk though will explain how to run the application in more detail.
 follow the provided link
 
 https://youtu.be/f6xdl9IHLy4
-
-
-
 
 
 ## This project is Licensed under the MIT License
