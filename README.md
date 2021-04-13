@@ -32,8 +32,7 @@ this video walk though will explain how to run the application in more detail.
 
 follow the provided link
 
-https://youtu.be/f6xdl9IHLy4
-
+https://youtu.be/hYcHuHoSvKw
 
 ## This project is Licensed under the MIT License
 
